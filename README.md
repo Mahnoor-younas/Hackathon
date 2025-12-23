@@ -1,2 +1,3 @@
 # Hackathon
-This is my first repositroy
+This is my first Git Repositroy.
+Author-Mahnoor Younas
